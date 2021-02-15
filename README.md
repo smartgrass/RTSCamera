@@ -14,3 +14,6 @@ CameraRigEditor记得放在Editor文件内
 边框限制:点相机,然后就可以在Scene窗口直接调矩形大小
 
 原理不需要懂,用就完事了()
+
+详细描述
+https://blog.csdn.net/sdwsyns/article/details/113817923
