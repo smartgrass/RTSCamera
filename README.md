@@ -5,6 +5,8 @@
 
 使用时 CameraRig 和RSTCamera 挂载在相机上
 
+CameraRigEditor记得放在Editor文件内
+
 边框限制:点相机,然后就可以在Scene窗口直接调矩形大小
 
 原理不需要懂,用就完事了()
