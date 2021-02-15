@@ -45,7 +45,6 @@ public class RSTCamera : MonoBehaviour {
     private void OnDragging(DragInfo dragInfo)
     {
         //if (dragInfo.isMouse && dragInfo.index == 1)
-
         if (MySetting.IsPC && !dragInfo.isMouse)
         {
             return;
