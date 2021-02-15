@@ -15,5 +15,5 @@ CameraRigEditor记得放在Editor文件内
 
 原理不需要懂,用就完事了()
 
-详细描述
+详细文图描述
 https://blog.csdn.net/sdwsyns/article/details/113817923
